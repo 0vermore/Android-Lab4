@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab3</string>
+    <string name="clear_list">Clear List</string>
+    <string name="read_from_db">Read from DB</string>
 </resources>
